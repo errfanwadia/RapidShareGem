@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  resources :uploads
+
+  match 'uploads/:id/download' => 'uploads#download', :as => :download, via: [:get]
+  # get 'uploads/:id/download' => 'uploads#download', as: 'download'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
