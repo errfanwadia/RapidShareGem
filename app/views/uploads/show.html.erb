@@ -1,14 +1,41 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>File:</strong>
+<!--<p>-->
+  <!--<strong>File:</strong>-->
 
-  <!--@galleries.each do |gallery|-->
-  <!--= link_to 'Download Picture', download_path(gallery.id)-->
-  <%= @upload.file %>
-  <%= link_to "Download", download_path(@upload.id) %>
+  <!--&lt;!&ndash;@galleries.each do |gallery|&ndash;&gt;-->
+  <!--&lt;!&ndash;= link_to 'Download Picture', download_path(gallery.id)&ndash;&gt;-->
+  <!--<%= @upload.file %>-->
+  <!--<%= link_to "Download", download_path(@upload.id) %>-->
 
-</p>
+<!--</p>-->
 
-<%= link_to 'Edit', edit_upload_path(@upload) %> |
-<%= link_to 'Back', uploads_path %>
+<table class="table">
+  <tr>
+    <td><strong>File name:</strong></td>
+    <td><%= @upload.file_file_name %></td>
+  </tr>
+
+  <tr>
+    <td><strong>Size:</strong></td>
+    <td><%= @upload.file_file_size %></td>
+  </tr>
+
+  <tr>
+    <td><strong>Content-type:</strong></td>
+    <td><%= @upload.file_content_type %></td>
+  </tr>
+
+  <tr>
+    <td><strong>Download Link:</strong></td>
+    <td><%= link_to "Download", download_path(@upload) %></td>
+  </tr>
+
+  <tr>
+    <td><strong>Delete Link:</strong></td>
+    <td><%= link_to 'Destroy', upload_path(@upload), :method => 'delete' %></td>
+  </tr>
+</table>
+
+<!--<%= link_to 'Edit', edit_upload_path(@upload), :class=>"btn btn-primary"  %>-->
+<%= link_to 'Back', uploads_path, :class=>"btn btn-primary"  %>

@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :uploads
+  resources :uploads, :only => [:new, :create, :show, :index, :edit, :destroy]
 
   match 'uploads/:id/download' => 'uploads#download', :as => :download, via: [:get]
   # get 'uploads/:id/download' => 'uploads#download', as: 'download'
@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
+  root 'uploads#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
