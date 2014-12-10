@@ -1,15 +1,21 @@
 class UploadsController < ApplicationController
   before_action :set_upload, only: [:show, :edit, :update, :destroy]
 
+  before_action :check_authorized, only: [:show, :destroy, :download]
+
+  before_action :authenticate_user!
+
+
   # GET /uploads
   # GET /uploads.json
   def index
-    @uploads = Upload.all
+    @uploads = current_user.uploads.all
   end
 
   # GET /uploads/1
   # GET /uploads/1.json
   def show
+    @upload = current_user.uploads.find(params[:id])
   end
 
   # GET /uploads/new
@@ -24,8 +30,13 @@ class UploadsController < ApplicationController
   # POST /uploads
   # POST /uploads.json
   def create
-    @upload = Upload.new(upload_params)
-    upload_params
+
+    unless upload_params
+      redirect_to action: "index" and return
+      return
+    end
+
+    @upload = current_user.uploads.new(upload_params)
 
     respond_to do |format|
       if @upload.save
@@ -41,15 +52,15 @@ class UploadsController < ApplicationController
   # PATCH/PUT /uploads/1
   # PATCH/PUT /uploads/1.json
   def update
-    respond_to do |format|
-      if @upload.update(upload_params)
-        format.html { redirect_to @upload, notice: 'Upload was successfully updated.' }
-        format.json { render :show, status: :ok, location: @upload }
-      else
-        format.html { render :edit }
-        format.json { render json: @upload.errors, status: :unprocessable_entity }
-      end
-    end
+    # respond_to do |format|
+    #   if @upload.update(upload_params)
+    #     format.html { redirect_to @upload, notice: 'Upload was successfully updated.' }
+    #     format.json { render :show, status: :ok, location: @upload }
+    #   else
+    #     format.html { render :edit }
+    #     format.json { render json: @upload.errors, status: :unprocessable_entity }
+    #   end
+    # end
   end
 
   # DELETE /uploads/1

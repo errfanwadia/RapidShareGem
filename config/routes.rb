@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   resources :uploads, :only => [:new, :create, :show, :index, :edit, :destroy]
 
   match 'uploads/:id/download' => 'uploads#download', :as => :download, via: [:get]
@@ -8,7 +9,11 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'uploads#index'
+  devise_scope :user do
+    root to: "devise/registrations#new"
+  end
+
+
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
