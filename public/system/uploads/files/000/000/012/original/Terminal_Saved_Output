@@ -1,0 +1,3449 @@
+Last login: Tue Dec  2 10:55:05 on ttys000
+Irfans-MacBook-Air:~ irfanwadia$ cd /Users/irfanwadia/Downloads/koans/
+Irfans-MacBook-Air:koans irfanwadia$ ls
+GREED_RULES.txt			about_nil.rb
+README.rdoc			about_objects.rb
+Rakefile			about_open_classes.rb
+about_array_assignment.rb	about_proxy_object_project.rb
+about_arrays.rb			about_regular_expressions.rb
+about_asserts.rb		about_sandwich_code.rb
+about_blocks.rb			about_scope.rb
+about_class_methods.rb		about_scoring_project.rb
+about_classes.rb		about_strings.rb
+about_constants.rb		about_symbols.rb
+about_control_statements.rb	about_to_str.rb
+about_dice_project.rb		about_triangle_project.rb
+about_exceptions.rb		about_triangle_project_2.rb
+about_extra_credit.rb		about_true_and_false.rb
+about_hashes.rb			about_variable_scope.rb
+about_inheritance.rb		example_file.txt
+about_iteration.rb		koans.watchr
+about_java_interop.rb		neo.rb
+about_keyword_arguments.rb	path_to_enlightenment.rb
+about_message_passing.rb	triangle.rb
+about_methods.rb		versioning_spec.rb
+about_modules.rb
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_truth has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+
+The answers you seek...
+  Failed assertion.
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:10:in `test_assert_truth'
+
+mountains are merely mountains
+your path thus far [X_________________________________________________] 0/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_truth has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Failed assertion.
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:10:in `test_assert_truth'
+
+mountains are merely mountains
+your path thus far [X_________________________________________________] 0/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_truth has expanded your awareness.
+AboutAsserts#test_assert_with_message has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 1 completed.
+
+The answers you seek...
+  This should be true -- Please fix this
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:16:in `test_assert_with_message'
+
+learn the rules so you know how to break them properly
+your path thus far [.X________________________________________________] 1/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_with_message has expanded your awareness.
+AboutAsserts#test_assert_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 2 completed.
+
+The answers you seek...
+  Failed assertion.
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:25:in `test_assert_equality'
+
+learn the rules so you know how to break them properly
+your path thus far [.X________________________________________________] 2/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Failed assertion.
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:25:in `test_assert_equality'
+
+learn the rules so you know how to break them properly
+your path thus far [.X________________________________________________] 2/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Failed assertion.
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:25:in `test_assert_equality'
+
+learn the rules so you know how to break them properly
+your path thus far [.X________________________________________________] 2/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_assert_equality has expanded your awareness.
+AboutAsserts#test_a_better_way_of_asserting_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 3 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:33:in `test_a_better_way_of_asserting_equality'
+
+remember that silence is sometimes the best answer
+your path thus far [.X________________________________________________] 3/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_a_better_way_of_asserting_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:33:in `test_a_better_way_of_asserting_equality'
+
+remember that silence is sometimes the best answer
+your path thus far [.X________________________________________________] 3/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_a_better_way_of_asserting_equality has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:33:in `test_a_better_way_of_asserting_equality'
+
+remember that silence is sometimes the best answer
+your path thus far [.X________________________________________________] 3/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_a_better_way_of_asserting_equality has expanded your awareness.
+AboutAsserts#test_fill_in_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 4 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_asserts.rb:38:in `test_fill_in_values'
+
+remember that silence is sometimes the best answer
+your path thus far [.X________________________________________________] 4/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutAsserts#test_fill_in_values has expanded your awareness.
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 5 completed.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected ':', expecting keyword_end (SyntaxError)
+...rt_equal __, nil.is_a?(Object): "Unlike NULL in other langua...
+...                               ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:6:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  class or module required
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `is_a?'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected tCONSTANT, expecting keyword_end (SyntaxError)
+...sert_equal __, nil.is_a? Object, "Unlike NULL in other langu...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: dynamic constant assignment
+...ert_equal __, nil.is_a? Object, "Unlike NULL in other langua...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected '\n', expecting :: or '[' or '.'
+/Users/irfanwadia/Downloads/koans/about_nil.rb:38: syntax error, unexpected end-of-input, expecting keyword_end
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:6:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected tCONSTANT, expecting keyword_end (SyntaxError)
+...sert_equal __, nil.is_a? Object, "Unlike NULL in other langu...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: dynamic constant assignment
+...ert_equal __, nil.is_a? Object, "Unlike NULL in other langua...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected '\n', expecting :: or '[' or '.'
+/Users/irfanwadia/Downloads/koans/about_nil.rb:38: syntax error, unexpected end-of-input, expecting keyword_end
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:6:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected ':', expecting keyword_end (SyntaxError)
+...rt_equal __, nil.is_a?(Object):nil, "Unlike NULL in other la...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: Can't assign to nil
+...qual __, nil.is_a?(Object):nil, "Unlike NULL in other langua...
+...                               ^
+/Users/irfanwadia/Downloads/koans/about_nil.rb:5: syntax error, unexpected '\n', expecting :: or '[' or '.'
+/Users/irfanwadia/Downloads/koans/about_nil.rb:38: syntax error, unexpected end-of-input, expecting keyword_end
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:6:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Unlike NULL in other languages
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected true to equal "Unlike NULL in other languages"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Unlike NULL in other languages"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:5:in `test_nil_is_an_object'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 5/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_nil_is_an_object has expanded your awareness.
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 6 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal NoMethodError
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:16:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_nil.rb:17: syntax error, unexpected '\n', expecting '=' (SyntaxError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:6:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal NoMethodError
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:16:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+NoMethodErrorAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal NoMethodError
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:17:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "NoMethodError" to equal NoMethodError
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:17:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  undefined local variable or method `error' for #<AboutNil:0x007fe7f19dc5c0>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:17:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  undefined method `NoMethodError' for #<NoMethodError:0x007ff08c1104e8>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:17:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "undefined method `some_method_nil_doesnt_know_about' for nil:NilClass" to match /__/
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+AboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "undefined method `some_method_nil_doesnt_know_about' for nil:NilClass" to match /__/
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "undefined method `some_method_nil_doesnt_know_about' for nil:NilClass" to match /__/
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  type mismatch: String given
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  type mismatch: String given
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "undefined method `some_method_nil_doesnt_know_about' for nil:NilClass" to match /undefined method 'some_method_nil_doesnt_know_about'/
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:21:in `rescue in test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:12:in `test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil'
+
+sleep is the best meditation
+your path thus far [.X________________________________________________] 6/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_you_dont_get_null_pointer_errors_when_calling_methods_on_nil has expanded your awareness.
+AboutNil#test_nil_has_a_few_methods_defined_on_it has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 7 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:26:in `test_nil_has_a_few_methods_defined_on_it'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 7/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_nil_has_a_few_methods_defined_on_it has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected true to equal ""
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:27:in `test_nil_has_a_few_methods_defined_on_it'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 7/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_nil_has_a_few_methods_defined_on_it has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected true to equal "nil"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:28:in `test_nil_has_a_few_methods_defined_on_it'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 7/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_nil_has_a_few_methods_defined_on_it has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected nil to equal "nil"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_nil.rb:28:in `test_nil_has_a_few_methods_defined_on_it'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 7/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutNil#test_nil_has_a_few_methods_defined_on_it has expanded your awareness.
+AboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 8 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:5:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:5:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:6:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:7:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:8:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:9:in `test_everything_is_an_object'
+
+when you lose, don't lose the lesson
+your path thus far [.X________________________________________________] 8/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_everything_is_an_object has expanded your awareness.
+AboutObjects#test_objects_can_be_converted_to_strings has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 9 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "123"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:13:in `test_objects_can_be_converted_to_strings'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [.X________________________________________________] 9/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_objects_can_be_converted_to_strings has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ""
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:14:in `test_objects_can_be_converted_to_strings'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [.X________________________________________________] 9/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_objects_can_be_converted_to_strings has expanded your awareness.
+AboutObjects#test_objects_can_be_inspected has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 10 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "123"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:18:in `test_objects_can_be_inspected'
+
+mountains are merely mountains
+your path thus far [.X________________________________________________] 10/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_objects_can_be_inspected has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "nil"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:19:in `test_objects_can_be_inspected'
+
+mountains are merely mountains
+your path thus far [.X________________________________________________] 10/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_objects_can_be_inspected has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected nil to equal "nil"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:19:in `test_objects_can_be_inspected'
+
+mountains are merely mountains
+your path thus far [.X________________________________________________] 10/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_objects_can_be_inspected has expanded your awareness.
+AboutObjects#test_every_object_has_an_id has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 11 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Fixnum
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:24:in `test_every_object_has_an_id'
+
+learn the rules so you know how to break them properly
+your path thus far [.X________________________________________________] 11/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_every_object_has_an_id has expanded your awareness.
+AboutObjects#test_every_object_has_different_id has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 12 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:30:in `test_every_object_has_different_id'
+
+learn the rules so you know how to break them properly
+your path thus far [..X_______________________________________________] 12/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_objects.rb:35: syntax error, unexpected '\n', expecting '=' (SyntaxError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:7:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_every_object_has_different_id has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:30:in `test_every_object_has_different_id'
+
+learn the rules so you know how to break them properly
+your path thus far [..X_______________________________________________] 12/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_every_object_has_different_id has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:30:in `test_every_object_has_different_id'
+
+learn the rules so you know how to break them properly
+your path thus far [..X_______________________________________________] 12/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_every_object_has_different_id has expanded your awareness.
+AboutObjects#test_small_integers_have_fixed_ids has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 13 completed.
+
+The answers you seek...
+  Expected true to equal 1
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:34:in `test_small_integers_have_fixed_ids'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 13/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_small_integers_have_fixed_ids has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected true to equal 3
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:35:in `test_small_integers_have_fixed_ids'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 13/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_small_integers_have_fixed_ids has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected true to equal 5
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:36:in `test_small_integers_have_fixed_ids'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 13/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_small_integers_have_fixed_ids has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 201
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:37:in `test_small_integers_have_fixed_ids'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 13/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_small_integers_have_fixed_ids has expanded your awareness.
+AboutObjects#test_clone_creates_a_different_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 14 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:47:in `test_clone_creates_a_different_object'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 14/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_clone_creates_a_different_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_objects.rb:48:in `test_clone_creates_a_different_object'
+
+remember that silence is sometimes the best answer
+your path thus far [..X_______________________________________________] 14/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutObjects#test_clone_creates_a_different_object has expanded your awareness.
+AboutArrays#test_creating_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 15 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Array
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:6:in `test_creating_arrays'
+
+sleep is the best meditation
+your path thus far [..X_______________________________________________] 15/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_creating_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Array
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:6:in `test_creating_arrays'
+
+sleep is the best meditation
+your path thus far [..X_______________________________________________] 15/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_creating_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 0
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:7:in `test_creating_arrays'
+
+sleep is the best meditation
+your path thus far [..X_______________________________________________] 15/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_creating_arrays has expanded your awareness.
+AboutArrays#test_array_literals has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 16 completed.
+
+The answers you seek...
+  Expected [1, "FILL ME IN"] to equal [1, 2]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:18:in `test_array_literals'
+
+sleep is the best meditation
+your path thus far [..X_______________________________________________] 16/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_array_literals has expanded your awareness.
+AboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 17 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :peanut
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:27:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :peanut
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:28:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :peanut
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:28:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :jelly
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:29:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :jelly
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:30:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :jelly
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:31:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :butter
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:32:in `test_accessing_array_elements'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 17/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_accessing_array_elements has expanded your awareness.
+AboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 18 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:peanut]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:38:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:peanut, :butter]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:39:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:and, :jelly]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:40:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:and, :jelly]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:41:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal []
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:42:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal []
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:43:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected [] to equal nil
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:44:in `test_slicing_arrays'
+
+when you lose, don't lose the lesson
+your path thus far [...X______________________________________________] 18/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_arrays has expanded your awareness.
+AboutArrays#test_arrays_and_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 19 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Range
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:48:in `test_arrays_and_ranges'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [...X______________________________________________] 19/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_arrays_and_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2, 3, 4, 5]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:50:in `test_arrays_and_ranges'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [...X______________________________________________] 19/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_arrays_and_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2, 3, 4, 5]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:50:in `test_arrays_and_ranges'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [...X______________________________________________] 19/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_arrays_and_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected [1, 2, 3, 4, 5] to equal [1, 2, 3, 4]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:51:in `test_arrays_and_ranges'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [...X______________________________________________] 19/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_arrays_and_ranges has expanded your awareness.
+AboutArrays#test_slicing_with_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 20 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:peanut, :butter, :and]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:57:in `test_slicing_with_ranges'
+
+mountains are merely mountains
+your path thus far [...X______________________________________________] 20/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_arrays.rb:57: syntax error, unexpected tIDENTIFIER, expecting keyword_end (SyntaxError)
+    assert_equal [:peanut, :butter, :and] array[0..2]
+                                               ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:8:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_arrays.rb:57: syntax error, unexpected tIDENTIFIER, expecting keyword_end (SyntaxError)
+    assert_equal [:peanut, :butter, :and] array[0..2]
+                                               ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:8:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_arrays.rb:57: syntax error, unexpected tIDENTIFIER, expecting keyword_end (SyntaxError)
+    assert_equal [:peanut, :butter, :and] array[0..2]
+                                               ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:8:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_with_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:peanut, :butter]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:58:in `test_slicing_with_ranges'
+
+mountains are merely mountains
+your path thus far [...X______________________________________________] 20/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_with_ranges has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:and, :jelly]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:59:in `test_slicing_with_ranges'
+
+mountains are merely mountains
+your path thus far [...X______________________________________________] 20/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_slicing_with_ranges has expanded your awareness.
+AboutArrays#test_pushing_and_popping_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 21 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2, :last]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:66:in `test_pushing_and_popping_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 21/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_arrays.rb:66: syntax error, unexpected ']', expecting keyword_end (SyntaxError)
+    assert_equal [1,2,:last]], array
+                             ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:8:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_pushing_and_popping_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :last
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:69:in `test_pushing_and_popping_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 21/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_pushing_and_popping_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:70:in `test_pushing_and_popping_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 21/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_pushing_and_popping_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:70:in `test_pushing_and_popping_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 21/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_pushing_and_popping_arrays has expanded your awareness.
+AboutArrays#test_shifting_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 22 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [:first, 1, 2]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:77:in `test_shifting_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 22/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_shifting_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal :first
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:80:in `test_shifting_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 22/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_shifting_arrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal [1, 2]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_arrays.rb:81:in `test_shifting_arrays'
+
+learn the rules so you know how to break them properly
+your path thus far [...X______________________________________________] 22/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrays#test_shifting_arrays has expanded your awareness.
+AboutArrayAssignment#test_non_parallel_assignment has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 23 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["John", "Smith"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:6:in `test_non_parallel_assignment'
+
+remember that silence is sometimes the best answer
+your path thus far [....X_____________________________________________] 23/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_non_parallel_assignment has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["John", "Smith"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:6:in `test_non_parallel_assignment'
+
+remember that silence is sometimes the best answer
+your path thus far [....X_____________________________________________] 23/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_non_parallel_assignment has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignments has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 24 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "John"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:11:in `test_parallel_assignments'
+
+remember that silence is sometimes the best answer
+your path thus far [....X_____________________________________________] 24/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Smith"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:12:in `test_parallel_assignments'
+
+remember that silence is sometimes the best answer
+your path thus far [....X_____________________________________________] 24/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignments_with_extra_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 25 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "John"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:17:in `test_parallel_assignments_with_extra_values'
+
+sleep is the best meditation
+your path thus far [....X_____________________________________________] 25/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_extra_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Smith"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:18:in `test_parallel_assignments_with_extra_values'
+
+sleep is the best meditation
+your path thus far [....X_____________________________________________] 25/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_extra_values has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignments_with_splat_operator has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 26 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "John"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:23:in `test_parallel_assignments_with_splat_operator'
+
+sleep is the best meditation
+your path thus far [....X_____________________________________________] 26/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_splat_operator has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["Smith", "III"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:24:in `test_parallel_assignments_with_splat_operator'
+
+sleep is the best meditation
+your path thus far [....X_____________________________________________] 26/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:24: syntax error, unexpected ']', expecting keyword_end (SyntaxError)
+    assert_equal ["Smith", "III"]], last_name
+                                  ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:9:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_splat_operator has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignments_with_too_few_variables has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 27 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Cher"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:29:in `test_parallel_assignments_with_too_few_variables'
+
+when you lose, don't lose the lesson
+your path thus far [....X_____________________________________________] 27/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_too_few_variables has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal nil
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:30:in `test_parallel_assignments_with_too_few_variables'
+
+when you lose, don't lose the lesson
+your path thus far [....X_____________________________________________] 27/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_too_few_variables has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignments_with_subarrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 28 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["Willie", "Rae"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:35:in `test_parallel_assignments_with_subarrays'
+
+when you lose, don't lose the lesson
+your path thus far [....X_____________________________________________] 28/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_subarrays has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Johnson"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:36:in `test_parallel_assignments_with_subarrays'
+
+when you lose, don't lose the lesson
+your path thus far [....X_____________________________________________] 28/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignments_with_subarrays has expanded your awareness.
+AboutArrayAssignment#test_parallel_assignment_with_one_variable has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 29 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "John"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:41:in `test_parallel_assignment_with_one_variable'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [.....X____________________________________________] 29/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_parallel_assignment_with_one_variable has expanded your awareness.
+AboutArrayAssignment#test_swapping_with_parallel_assignment has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 30 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "Rob"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_array_assignment.rb:48:in `test_swapping_with_parallel_assignment'
+
+mountains are merely mountains
+your path thus far [.....X____________________________________________] 30/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutArrayAssignment#test_swapping_with_parallel_assignment has expanded your awareness.
+AboutHashes#test_creating_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 31 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Hash
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:6:in `test_creating_hashes'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 31/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_creating_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "Hash" to equal Hash
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:6:in `test_creating_hashes'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 31/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_creating_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal {}
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:7:in `test_creating_hashes'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 31/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_creating_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 0
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:8:in `test_creating_hashes'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 31/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_creating_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected nil to equal {}
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:7:in `test_creating_hashes'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 31/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_creating_hashes has expanded your awareness.
+AboutHashes#test_hash_literals has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 32 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:13:in `test_hash_literals'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 32/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_literals has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:13:in `test_hash_literals'
+
+learn the rules so you know how to break them properly
+your path thus far [.....X____________________________________________] 32/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_literals has expanded your awareness.
+AboutHashes#test_accessing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 33 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "uno"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:18:in `test_accessing_hashes'
+
+remember that silence is sometimes the best answer
+your path thus far [.....X____________________________________________] 33/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "uno"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:18:in `test_accessing_hashes'
+
+remember that silence is sometimes the best answer
+your path thus far [.....X____________________________________________] 33/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "dos"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:19:in `test_accessing_hashes'
+
+remember that silence is sometimes the best answer
+your path thus far [.....X____________________________________________] 33/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal nil
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:20:in `test_accessing_hashes'
+
+remember that silence is sometimes the best answer
+your path thus far [.....X____________________________________________] 33/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes has expanded your awareness.
+AboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 34 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "uno"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:25:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  undefined method `Excpetion' for #<AboutHashes:0x007fb8aa14bf80>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  undefined method `Exception' for #<AboutHashes:0x007fdf23954548>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  undefined method `Exception' for #<AboutHashes:0x007fde0c1cfd08>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  class or module required
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: FillMeInError> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: FillMeInError> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  key not found: "FILL ME IN"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:25:in `fetch'
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:25:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Exception FillMeInError expected, but #<KeyError: key not found: :doesnt_exist> was raised
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:26:in `test_accessing_hashes_with_fetch'
+
+remember that silence is sometimes the best answer
+your path thus far [......X___________________________________________] 34/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_accessing_hashes_with_fetch has expanded your awareness.
+AboutHashes#test_changing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 35 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal {:one=>"eins", :two=>"dos"}
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:40:in `test_changing_hashes'
+
+sleep is the best meditation
+your path thus far [......X___________________________________________] 35/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one=>"eins", :two=>"dos"}, hash
+                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one=>"eins", :two=>"dos"}, hash
+                               ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one=>"eins", :two=>"dos"}, hash
+                                             ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_changing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal {:one=>"eins", :two=>"dos"}
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:40:in `test_changing_hashes'
+
+sleep is the best meditation
+your path thus far [......X___________________________________________] 35/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                         ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                 ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                                 ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                         ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                 ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                                 ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                         ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                 ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one => "eins", :two => "dos"}, hash
+                                                 ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                         ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                                 ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                                                  ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                         ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                                 ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one => "eins", :two => "dos"} , hash
+                                                  ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_changing_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal {:one=>"eins", :two=>"dos"}
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:40:in `test_changing_hashes'
+
+sleep is the best meditation
+your path thus far [......X___________________________________________] 35/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected =>, expecting '}' (SyntaxError)
+    assert_equal {:one=>"eins", :two=>"dos"} , hash
+                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal {:one=>"eins", :two=>"dos"} , hash
+                               ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal {:one=>"eins", :two=>"dos"} , hash
+                                              ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_changing_hashes has expanded your awareness.
+AboutHashes#test_hash_is_unordered has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 36 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:50:in `test_hash_is_unordered'
+
+sleep is the best meditation
+your path thus far [......X___________________________________________] 36/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ':', expecting '}' (SyntaxError)
+    assert_equal { :one: "eins", :two: "dos" }}, hash
+                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal { :one: "eins", :two: "dos" }}, hash
+                                ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected tSTRING_DEND, expecting keyword_end
+    assert_equal { :one: "eins", :two: "dos" }}, hash
+                                               ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:47: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:48: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:54: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:62: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:70: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:71: syntax error, unexpected tSTRING_DEND, expecting '}'
+    new_hash = hash.merge({ "jim" => 54, "jenny" => 26 })
+                                                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:75: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:107: syntax error, unexpected tSTRING_DEND, expecting '}'
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:115: syntax error, unexpected keyword_end, expecting '}'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ':', expecting '}' (SyntaxError)
+    assert_equal { :one: "eins", :two: "dos" }, hash
+                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting '}'
+    assert_equal { :one: "eins", :two: "dos" }, hash
+                                ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    assert_equal { :one: "eins", :two: "dos" }, hash
+                                               ^
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ':', expecting => (SyntaxError)
+    h =  { :one: "eins", :two: "dos" }
+                ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected ',', expecting keyword_end
+    h =  { :one: "eins", :two: "dos" }
+                        ^
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:40: syntax error, unexpected '}', expecting keyword_end
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_is_unordered has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:51:in `test_hash_is_unordered'
+
+sleep is the best meditation
+your path thus far [......X___________________________________________] 36/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_is_unordered has expanded your awareness.
+AboutHashes#test_hash_keys has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 37 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:56:in `test_hash_keys'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 37/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_keys has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:56:in `test_hash_keys'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 37/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_keys has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:57:in `test_hash_keys'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 37/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_keys has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Array
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:59:in `test_hash_keys'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 37/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_keys has expanded your awareness.
+AboutHashes#test_hash_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 38 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:64:in `test_hash_values'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 38/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 2
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:64:in `test_hash_values'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 38/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_values has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Array
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:67:in `test_hash_values'
+
+when you lose, don't lose the lesson
+your path thus far [......X___________________________________________] 38/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_hash_values has expanded your awareness.
+AboutHashes#test_combining_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 39 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:74:in `test_combining_hashes'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [......X___________________________________________] 39/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_combining_hashes has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal false
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:77:in `test_combining_hashes'
+
+things are not what they appear to be: nor are they otherwise
+your path thus far [......X___________________________________________] 39/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_combining_hashes has expanded your awareness.
+AboutHashes#test_default_value has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 40 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 1
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:84:in `test_default_value'
+
+mountains are merely mountains
+your path thus far [.......X__________________________________________] 40/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal nil
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:85:in `test_default_value'
+
+mountains are merely mountains
+your path thus far [.......X__________________________________________] 40/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal 1
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:90:in `test_default_value'
+
+mountains are merely mountains
+your path thus far [.......X__________________________________________] 40/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal "dos"
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:91:in `test_default_value'
+
+mountains are merely mountains
+your path thus far [.......X__________________________________________] 40/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  undefined local variable or method `dos' for #<AboutHashes:0x007fdcb2879dd0>
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:91:in `test_default_value'
+
+mountains are merely mountains
+your path thus far [.......X__________________________________________] 40/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value has expanded your awareness.
+AboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 41 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["uno", "dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:100:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["uno", "dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:101:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "dos" to equal ["uno", "dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:101:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "dos" to equal ["uno", "dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:101:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClass                                  ,,   ,  ,,
+                                :      ::::,    :::,
+                   ,        ,,: :::::::::::::,,  ::::   :  ,
+                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
+            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
+           :   :    ::,                          ,:::::::: ::, ,::::
+          ,     ,:::::                                  :,:::::::,::::,
+      ,:     , ,:,,:                                       :::::::::::::
+     ::,:   ,,:::,                                           ,::::::::::::,
+    ,:::, :,,:::                                               ::::::::::::,
+   ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
+   :::,,,::::::                                                   ::::::::::::
+ ,:::::::::::,                                                    ::::::::::::,
+ :::::::::::,                                                     ,::::::::::::
+:::::::::::::                                                     ,::::::::::::
+::::::::::::                      Ruby Koans                       ::::::::::::
+::::::::::::                   (in Ruby 2.0.0)                    ,::::::::::::
+:::::::::::,                                                      , :::::::::::
+,:::::::::::::,                brought to you by                 ,,::::::::::::
+::::::::::::::                                                    ,::::::::::::
+ ::::::::::::::,                                                 ,:::::::::::::
+ ::::::::::::,               Neo Software Artisans              , ::::::::::::
+  :,::::::::: ::::                                               :::::::::::::
+   ,:::::::::::  ,:                                          ,,:::::::::::::,
+     ::::::::::::                                           ,::::::::::::::,
+      :::::::::::::::::,                                  ::::::::::::::::
+       :::::::::::::::::::,                             ::::::::::::::::
+        ::::::::::::::::::::::,                     ,::::,:, , ::::,:::
+          :::::::::::::::::::::::,               ::,: ::,::, ,,: ::::
+              ,::::::::::::::::::::              ::,,  , ,,  ,::::
+                 ,::::::::::::::::              ::,, ,   ,:::,
+                      ,::::                         , ,,
+                                                  ,,,
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require': /Users/irfanwadia/Downloads/koans/about_hashes.rb:101: syntax error, unexpected '\n', expecting '=' (SyntaxError)
+/Users/irfanwadia/Downloads/koans/about_hashes.rb:102: syntax error, unexpected '\n', expecting '='
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from path_to_enlightenment.rb:10:in `<main>'
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected [] to equal ["uno", "dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:102:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  I sense frustration. Do not be afraid to ask for help.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:104:in `test_default_value_is_the_same_object'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 41/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_is_the_same_object has expanded your awareness.
+AboutHashes#test_default_value_with_block has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 42 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["uno"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:113:in `test_default_value_with_block'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 42/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_with_block has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal ["dos"]
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:114:in `test_default_value_with_block'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 42/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_with_block has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal []
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_hashes.rb:115:in `test_default_value_with_block'
+
+learn the rules so you know how to break them properly
+your path thus far [.......X__________________________________________] 42/282
+Irfans-MacBook-Air:koans irfanwadia$ ruby path_to_enlightenment.rb 
+undefined method `some_method_nil_doesnt_know_about' for nil:NilClassAboutHashes#test_default_value_with_block has expanded your awareness.
+AboutStrings#test_double_quoted_strings_are_strings has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  You are progressing. Excellent. 43 completed.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal true
+
+Please meditate on the following code:
+  /Users/irfanwadia/Downloads/koans/about_strings.rb:6:in `test_double_quoted_strings_are_strings'
+
+remember that silence is sometimes the best answer
+your path thus far [.......X__________________________________________] 43/282
+Irfans-MacBook-Air:koans irfanwadia$ 
